@@ -1,0 +1,21 @@
+{
+  "name": "project-template",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Patrick Corbett <patrick.corbett@live.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
